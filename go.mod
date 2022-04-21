@@ -1,4 +1,4 @@
-module gojwt
+module github.com/masv3971/gojwt
 
 go 1.18
 
